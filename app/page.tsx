@@ -104,7 +104,7 @@ export default function Portfolio() {
         <Card className="border-slate-200 shadow-lg">
           <CardHeader>
             <CardTitle className="text-3xl">About Me</CardTitle>
-            <CardDescription>A passionate developer with a love for creating syystems</CardDescription>
+            <CardDescription>A passionate developer with a love for creating systems</CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-slate-700 leading-relaxed">
