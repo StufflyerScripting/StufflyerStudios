@@ -34,7 +34,7 @@ export default function Portfolio() {
     { name: "Java", icon: <Code className="w-5 h-5" /> },
     { name: "C++/C", icon: <Zap className="w-5 h-5" /> },
     { name: "Luau", icon: <Code className="w-5 h-5" /> },
-    { name: "Composing", icon: <Music className="w-5 h-5" /> },
+    { name: "Composing", icon: <Palette className="w-5 h-5" /> },
     { name: "Basic Web Dev", icon: <Code className="w-5 h-5" /> }
   ];
 
