@@ -40,11 +40,11 @@ export default function Portfolio() {
       icon: <Cpu className="w-6 h-6" />
     },
     {
-      title: "Uniblokz Java & C++",
-      description: "A fun physics exploration game I made for learning computer graphics.",
-      tags: ["OpenGL", "LWJGL", "GLAD", "Java", "C++"],
-      link: "#",
-      icon: <Layers className="w-6 h-6" />
+      title: "Tachyon",
+      description: "A powerful Rubik's Cube Solver written in Java.",
+      tags: ["Java"],
+      link: "https://tachyon.stufflyerstudios.com/",
+      icon: <Zap className="w-6 h-6" />
     },
   ];
 
